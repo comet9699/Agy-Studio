@@ -1,0 +1,22 @@
+# Runtime data and credentials must never be committed.
+data/
+runtime/
+temp/
+worktrees/
+profile/
+.gemini/
+.env
+.env.*
+*.db
+*.db-wal
+*.db-shm
+*.log
+node_modules/
+dist/
+outputs/
+audit/
+stability/
+*.asar
+*.exe
+*.zip
+*.7z
