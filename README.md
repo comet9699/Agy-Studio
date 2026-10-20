@@ -4,12 +4,14 @@
 
 ## 下载
 
-打开本仓库的 **Releases**，选择 **v0.64.0**，在 Assets 中下载：
+打开 [v0.64.0 下载页面](https://github.com/comet9699/Agy-Studio/releases/tag/v0.64.0)，在 Assets 中下载：
 
-- `Agy-Studio-0.64.0-Windows-x64-Setup.exe`：推荐的安装版。
-- `Agy-Studio-0.64.0-Windows-x64-Portable.zip`：全部解压后运行 `Agy Studio.exe` 的免安装版。
-- `SHA256.txt`：下载文件校验值。
-- 使用说明：首次安装、登录、网络与数据目录说明。
+- [Agy-Studio-0.64.0-Windows-x64-Setup.exe](https://github.com/comet9699/Agy-Studio/releases/download/v0.64.0/Agy-Studio-0.64.0-Windows-x64-Setup.exe)：推荐的安装版。
+- [Agy-Studio-0.64.0-Windows-x64-Portable.zip](https://github.com/comet9699/Agy-Studio/releases/download/v0.64.0/Agy-Studio-0.64.0-Windows-x64-Portable.zip)：全部解压后运行 `Agy Studio.exe` 的免安装版。
+- [SHA256.txt](https://github.com/comet9699/Agy-Studio/releases/download/v0.64.0/SHA256.txt)：下载文件校验值。
+- [使用说明](https://github.com/comet9699/Agy-Studio/releases/download/v0.64.0/Readme-Windows.txt)：首次安装、登录、网络与数据目录说明。
+
+请下载上面列出的程序文件；GitHub 自动生成的 Source code 压缩包仅包含本仓库文档，不能作为程序运行。
 
 这是分享试用版本，目标系统为 **Windows 10 / Windows 11，Intel/AMD x64**。不是 macOS、Linux 或 Windows ARM64 原生安装包。
 
